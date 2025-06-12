@@ -1,0 +1,5 @@
+/p:DeployOnBuild=true
+/p:WebPublishMethod=FileSystem
+/p:publishUrl="$(build.artifactstagingdirectory)\WebPublish"
+/p:DeployDefaultTarget=WebPublish
+
